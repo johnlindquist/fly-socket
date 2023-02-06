@@ -22,17 +22,11 @@
     "email": "",
     "url": ""
   },
-  "contributors": [
-
-  ],
+  "contributors": [],
   "scripts": {
-    "dev": "",
-    "test": ""
+    "start": "node --watch index.js"
   },
   "dependencies": {
-
-  },
-  "devDependencies": {
-
+    "socket.io": "^4.5.4"
   }
 }
